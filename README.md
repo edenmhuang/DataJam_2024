@@ -1,6 +1,6 @@
 # EV Charging Infrastructure Analysis
 
-**1st place out of 10 teams at DataJam 2024 — presented at 
+**1st place out of 10 teams at DataJam 2024, presented at 
 UC Berkeley's Data Discovery Conference**
 
 Presented at [UC Berkeley's Data Discovery Conference](https://data.berkeley.edu/discovery)
